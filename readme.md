@@ -1,0 +1,1 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8d3026a7e8734c63bfe87ba6ce8a4a00)](https://www.codacy.com/gh/Ryanhindman6654/ticketbot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ryanhindman6654/ticketbot&amp;utm_campaign=Badge_Grade)
